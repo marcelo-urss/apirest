@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ESX\\Documents\\projeto_asp\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy.csproj": {}
+    "C:\\Users\\ESX\\Documents\\projeto_asp\\02_RestWithASPNETUdemy_calculadora\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ESX\\Documents\\projeto_asp\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy.csproj": {
+    "C:\\Users\\ESX\\Documents\\projeto_asp\\02_RestWithASPNETUdemy_calculadora\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ESX\\Documents\\projeto_asp\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy.csproj",
+        "projectUniqueName": "C:\\Users\\ESX\\Documents\\projeto_asp\\02_RestWithASPNETUdemy_calculadora\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy.csproj",
         "projectName": "01_RestWithASPNETUdemy",
-        "projectPath": "C:\\Users\\ESX\\Documents\\projeto_asp\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy.csproj",
+        "projectPath": "C:\\Users\\ESX\\Documents\\projeto_asp\\02_RestWithASPNETUdemy_calculadora\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy.csproj",
         "packagesPath": "C:\\Users\\ESX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ESX\\Documents\\projeto_asp\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy\\obj\\",
+        "outputPath": "C:\\Users\\ESX\\Documents\\projeto_asp\\02_RestWithASPNETUdemy_calculadora\\01_RestWithASPNETUdemy\\01_RestWithASPNETUdemy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
